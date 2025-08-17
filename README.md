@@ -94,5 +94,5 @@ Commit messages in this PR explicitly indicate LLM guidance.
 - By **optimizing digital marketing channels**, reallocating spend, and improving conversion efficiency, the company can significantly lower CAC and align with the industry benchmark in the next fiscal year.  
 
 
-## 📂 Project Structure
+
 
