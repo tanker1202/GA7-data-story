@@ -74,5 +74,25 @@ To investigate rising CAC, we analyzed a simulated dataset of digital marketing 
 
 ---
 
+---
+
+## 📧 Contact
+For verification and details:  
+**23f2001691@ds.study.iitm.ac.in**
+
+---
+
+## 🧠 Note on Methodology
+This project was prepared with assistance from **LLM-powered tools (Jules / Codex)** for both the coding and narrative analysis.  
+Commit messages in this PR explicitly indicate LLM guidance.
+
+---
+
+## ✅ Summary
+- Current CAC = **230.48**, significantly above the target of **150**.  
+- Inefficient channels (Display Ads, Social Media) are driving costs higher.  
+- By **optimizing digital marketing channels**, reallocating spend, and improving conversion efficiency, the company can significantly lower CAC and align with the industry benchmark in the next fiscal year.  
+
+
 ## 📂 Project Structure
 
